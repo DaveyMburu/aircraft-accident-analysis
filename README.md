@@ -1,4 +1,4 @@
-# Aircraft Accident Aanalysis
+# Aircraft Accident Analysis
 **Author:** [David Mburu](www.linkedin.com/in/david-g-mburu-b1268a1b7) 
 
 
@@ -34,16 +34,23 @@ I performed dropping and imputing for any null values in the dataset as well as 
 
 ### Results
 
-Boeing, Lockheed and Mcdonnell Douglas stand out as less risky during accidents
-![Accidents by Aircraft Make](Images/Accidents%20by%20Aircraft%20Make.png)
+Boeing, Lockheed and Mcdonnell Douglas stand out as less risky during accidents. Click [here](https://public.tableau.com/app/profile/david.mburu3214/viz/Project_17431639036690/AccidentsbyAircraftMake?publish=yes) to view in tableau
+
+![Accidents by Aircraft Make](Images/Accidents%20by%20Aircraft%20Make.png) 
 
 
 Amonge the aircraft makes these models stand out as the safest:
 ![Accidents by Aircraft Model](Images/Accidents%20by%20Aircraft%20Model.png)
 
+Click [here](https://public.tableau.com/app/profile/david.mburu3214/viz/Project_17431639036690/AccidentsbyAircraftModel?publish=yes) to view on tableau
 
-Turbo jet and Turbo Fan engines are the safest during accidents as they contain their explosions hence less damage to aircraft
+
+Turbo jet and Turbo Fan engines are the safest during accidents as they contain their explosions hence less damage to aircraft.
 ![Aircraft damage by Engine Type](Images/Aircraft%20Damage%20by%20Engine%20Type.png)
+
+Click [here](https://public.tableau.com/app/profile/david.mburu3214/viz/Project_17431639036690/AircraftDamagebyEngineType?publish=yes) to view on tableau
+
+Here is the tableau dashboard: [Dashboard](https://public.tableau.com/app/profile/david.mburu3214/viz/Project_17431639036690/Dashboard1?publish=yes)
 
 
 
